@@ -5,6 +5,7 @@
 **Gestão Executiva:**
 - Glauco Santos
 - Carolyn Aviz
+- Juliana Mota
 
 **Gestão Organizacional:**
 - Érica Santos
