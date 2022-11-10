@@ -4,7 +4,7 @@
 
 **Gestão Executiva:**
 - Glauco Santos
-- Carolyn Aviz
+- Gabriel Granado
 - Juliana Mota
 
 **Gestão Organizacional:**
@@ -13,8 +13,9 @@
 - Ricardo Silva 
 
 **Gestão de Marketing:**
-- Gabriel Granado
+- Carolyn Aviz
 - Monique Pujol
+- Gean Nogueira
 
 ## Passos
  Basicamente, segue uma síntese de cada passo:
