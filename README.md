@@ -7,6 +7,7 @@
 - Gabriel Ferreira Granado dos Santos
 - Juliana da Silva Mota
 - Miqueias Eudes Nogueira
+
 **Gestão Organizacional:**
 - Érica Souza dos Santos
 - Josemar Coelho Felix.
