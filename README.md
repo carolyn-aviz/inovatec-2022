@@ -4,19 +4,18 @@
 
 **Gestão Executiva:**
 
-- Gabriel Granado
+- Gabriel Ferreira Granado dos Santos
 - Juliana da Silva Mota
-
+- Miqueias Eudes Nogueira
 **Gestão Organizacional:**
-- Érica Santos
-- Josemar Felix.
-- Ricardo Silva da Silva Pereira
+- Érica Souza dos Santos
+- Josemar Coelho Felix.
+- Ricardo da Silva Pereira
 
 **Gestão de Marketing:**
 - Carolyn Aviz
-- Monique Pujol
 - Gean Nogueira
-
+- Victor Hugo Silva 
 ## Passos
  Basicamente, segue uma síntese de cada passo:
 Metas do projeto: Elaboração de proposta de projeto social, voltado a instituições que necessitam de Pessoas Portadoras de Necessidades Especiais.
