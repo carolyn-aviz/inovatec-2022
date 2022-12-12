@@ -3,14 +3,14 @@
 ## Integrantes 
 
 **Gestão Executiva:**
-- Glauco Santos
+
 - Gabriel Granado
-- Juliana Mota
+- Juliana da Silva Mota
 
 **Gestão Organizacional:**
 - Érica Santos
 - Josemar Felix.
-- Ricardo Silva 
+- Ricardo Silva da Silva Pereira
 
 **Gestão de Marketing:**
 - Carolyn Aviz
