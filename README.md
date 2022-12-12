@@ -72,5 +72,10 @@ Quais as restrições (financeira, relativos a mão de obra, questões técnicas
 Quais as ferramentas necessárias para a execução desse projeto?
 -Equipamentos de informática;
 -Equipamentos gráficos de impressão;
- 
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+## Pitch
+
+Link com a descrição do Pitch e Materiais complementares:
+
+https://drive.google.com/drive/folders/1uTN3xlCIVnOsSmhB1igqZy0kn03VWpSY?usp=share_link
+
+
